@@ -221,7 +221,7 @@ footer nav a {
  }
   
 .box-b{
-    background-color: rgb(247, 213, 64);
+    background-color: gold;
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -232,7 +232,7 @@ footer nav a {
 }
 
 .box-c{
-    background-color: rgb(89, 193, 201);
+    background-color: cadetblue;
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -243,7 +243,7 @@ footer nav a {
 }
 
 .box-d{
-    background-color:orange;  
+    background-color:coral;  
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -254,7 +254,7 @@ footer nav a {
 }
 
 .box-e{
-    background-color: red; 
+    background-color: crimson; 
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -265,7 +265,7 @@ footer nav a {
 }
 
 .box-f{
-    background-color: green;    
+    background-color: forestgreen;    
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -276,7 +276,7 @@ footer nav a {
 }
 
 .box-g{
-    background-color: rgb(139, 86, 139);  
+    background-color: darkorchid;  
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -286,7 +286,7 @@ footer nav a {
     width: 100px; 
 }
 .box-h{
-    background-color: pink;   
+    background-color: hotpink;   
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -297,7 +297,7 @@ footer nav a {
 }
 
 .box-i{
-    background-color: rgb(49, 1, 49);  
+    background-color: indigo;  
     height: 100px;
     margin: 20px 2.5%;
     color: white;
@@ -308,7 +308,7 @@ footer nav a {
 }
 
 .box-j{
-    background-color: rgb(15, 106, 192);
+    background-color: dodgerblue;
     height: 100px;
     margin: 20px 2.5%;
     color: white;
