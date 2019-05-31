@@ -341,12 +341,11 @@ section.header{
 }
 
 .body-two{
-    border-top: dotted black 2px;
-    border-bottom: dotted black 2px;
     display: flex;
     flex-flow: wrap;
     height: 100%;
     justify-content: space-around;
+    padding-bottom: 15px;
 
 }
 .foot-of-page{
@@ -357,19 +356,35 @@ section.header{
 }
 
 .strat{
+    border-bottom: dotted black 2px;
+    padding-bottom: 15px;
     width: 40%;
     height: 40%;
 }
 .work{
     width: 40%;
     height: 40%;
+    border-bottom: dotted black 2px;
+    padding-bottom: 15px;
 }
 .place{
     width: 40%;
     height: 40%;
+    border-bottom: dotted black 2px;
+    padding-bottom: 15px;
 }
 .meeting{
     width: 40%;
     height: 40%;
+    border-bottom: dotted black 2px;
+    padding-bottom: 15px;
 }
 
+button{
+    padding: 5px 8px;
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 8px;
+    background: none;
+
+}
